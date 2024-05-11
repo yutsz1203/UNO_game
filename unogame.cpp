@@ -3,7 +3,7 @@
 #include <cctype>
 #include <iomanip>
 #include <climits>
-// You may add additional headers if needed
+// You may add additional headers if needed.
 
 #include "ActionCard.h"
 #include "Man.h"
